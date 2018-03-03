@@ -1,0 +1,17 @@
+body {
+    background-image: url(../images/psychic.jpg);
+    background-size: 100% 100%;
+}
+.container {
+    position: relative;
+    width:25%;
+  
+    font-size: 120%;
+}
+.center {
+    text-align: center;
+}
+.main {
+    margin-left: 80px;
+
+}
